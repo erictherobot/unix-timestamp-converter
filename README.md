@@ -4,7 +4,7 @@ This is a simple UNIX timestamp converter. It converts a UNIX timestamp to a hum
 
 ## Usage
 
-Enter a UNIX timestamp or a date and time in the input field and click on the button. The result will be displayed below the input field.
+Enter a UNIX timestamp or a date and time in the input field and hit enter. The result will be displayed below the input field.
 
 ## License
 
